@@ -151,4 +151,26 @@ section {
     font-weight: 400;
     font-size: 16px;
 }
+
 /* resume styles */
+.resume-content {
+    display: flex;
+}
+
+.resume .title {
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+}
+
+.resume .sub-title {
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+}
+
+.resume .description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
